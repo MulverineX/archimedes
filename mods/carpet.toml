@@ -8,4 +8,4 @@ url = "https://github.com/gnembon/fabric-carpet/releases/download/1.4.57/fabric-
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "C7549EB66771432C482D4B53DDACC5398028C312F7F9FA41D395B4EE68D9FEA7"
+hash = "394DDF288BB2BB1A0AAA9EA3FAEE56A7297C4A0B32C4A26352966FF7E2B198AB"
