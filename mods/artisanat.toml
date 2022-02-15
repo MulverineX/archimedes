@@ -1,0 +1,13 @@
+name = "Artisanat"
+filename = "artisanat-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QDxAP5Cp/versions/2.1/artisanat-2.1.jar"
+hash-format = "sha1"
+hash = "e1684a16e51d7bdede8e0aff67dd77ea36e00a05"
+
+[update]
+[update.modrinth]
+mod-id = "QDxAP5Cp"
+version = "6FJ3bVOj"

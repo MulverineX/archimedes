@@ -1,0 +1,13 @@
+name = "WTHIT"
+filename = "wthit-fabric-3.11.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3522/154/wthit-fabric-3.11.2.jar"
+hash-format = "sha1"
+hash = "ebb1f4a816edc41825d1f37b6f9680a3ce40731a"
+
+[update]
+[update.curseforge]
+file-id = 3522154
+project-id = 440979

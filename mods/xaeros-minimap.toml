@@ -1,0 +1,13 @@
+name = "Xaero's Minimap"
+filename = "Xaeros_Minimap_22.2.0.1_Fabric_1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3647/3/Xaeros_Minimap_22.2.0.1_Fabric_1.17.1.jar"
+hash-format = "sha1"
+hash = "984afffc5c80bb1d95eff77508a325ab42c6ef2a"
+
+[update]
+[update.curseforge]
+file-id = 3647003
+project-id = 263420

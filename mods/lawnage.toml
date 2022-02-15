@@ -1,0 +1,13 @@
+name = "Lawnage"
+filename = "Lawnage-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zKdF01bP/versions/4.0.0/Lawnage-4.0.0.jar"
+hash-format = "sha1"
+hash = "5565cae37f1eb00e767808253bfd52223c52da93"
+
+[update]
+[update.modrinth]
+mod-id = "zKdF01bP"
+version = "pNFUdJyq"

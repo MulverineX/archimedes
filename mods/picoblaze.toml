@@ -1,0 +1,11 @@
+name = "picoblaze"
+filename = "picoblaze-1.2.2.jar"
+side = "server"
+
+[download]
+url = "https://github.com/lolgeny/picoblaze/releases/download/1.2.2/picoblaze-1.2.2.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1E3640633D58DD2DED8273F01D548A160A93B8218D62E9C28DE038ED590DC74E"
