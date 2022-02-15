@@ -70,6 +70,11 @@ hash = "af20e7d64e93e4b5f221ca060da2558159aba8b2f57f2bf6a02f3a0c1bd45b2c"
 metafile = true
 
 [[files]]
+file = "mods/dawn.toml"
+hash = "2f8471f05d7e024c327504f0cdf9ae674999f99875e888a586c5d2e122b40d6a"
+metafile = true
+
+[[files]]
 file = "mods/elytraboosters.toml"
 hash = "d543a901b0cd209243db5e49db5c68d382f7cd1f6c9b6dd36e4416917a664230"
 metafile = true

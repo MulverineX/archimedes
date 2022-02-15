@@ -1,0 +1,13 @@
+name = "Dawn API"
+filename = "dawn-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3438/648/dawn-2.0.6.jar"
+hash-format = "sha1"
+hash = "33c9b6ca8f38159443bcc196fe34ac732d0491bf"
+
+[update]
+[update.curseforge]
+file-id = 3438648
+project-id = 399309
