@@ -1,0 +1,13 @@
+name = "Elytra Boosters"
+filename = "elytraboosters-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3351/759/elytraboosters-1.2.0.jar"
+hash-format = "sha1"
+hash = "cd30163be3c999cee1fee7c142c869af464450e6"
+
+[update]
+[update.curseforge]
+file-id = 3351759
+project-id = 419731

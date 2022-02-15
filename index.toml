@@ -70,6 +70,11 @@ hash = "af20e7d64e93e4b5f221ca060da2558159aba8b2f57f2bf6a02f3a0c1bd45b2c"
 metafile = true
 
 [[files]]
+file = "mods/elytraboosters.toml"
+hash = "d543a901b0cd209243db5e49db5c68d382f7cd1f6c9b6dd36e4416917a664230"
+metafile = true
+
+[[files]]
 file = "mods/extended-bookshelves.toml"
 hash = "dc31fce1fee492cdce53ebc08e53cdc06877858835e3b923cb2f705156ed03fd"
 metafile = true
